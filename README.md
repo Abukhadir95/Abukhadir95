@@ -1,5 +1,5 @@
 
-👋 Hi, I'm @Abukhadir95!
+👋 Hi, I'm Bara'ah @Abukhadir95!
 
 👀 I'm passionate about machine learning and deep learning, with a particular focus on computer vision applications.
 
